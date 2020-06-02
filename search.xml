@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>vmware workstation pro 永久激活密钥</title>
+      <link href="/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
+      <url>/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/</url>
+      
+        <content type="html"><![CDATA[<h2 id="下载vmware-workstation-建议直接到官网进行下载，这样最安全。"><a href="#下载vmware-workstation-建议直接到官网进行下载，这样最安全。" class="headerlink" title="下载vmware workstation 建议直接到官网进行下载，这样最安全。"></a>下载vmware workstation 建议直接到官网进行下载，这样最安全。</h2><p>官网地址：</p><ul><li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">中文官网下载地址</a></li><li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">英文官网下载地址</a><h2 id="亲测前三有效"><a href="#亲测前三有效" class="headerlink" title="亲测前三有效"></a>亲测前三有效</h2><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/%E6%8D%95%E8%8E%B7.PNG" alt="" loading="lazy"><h2 id="激活码"><a href="#激活码" class="headerlink" title="激活码:"></a>激活码:</h2>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>UA752-0KF9J-0811Y-MQNEX-ZUAGF<br>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>AC11H-4HZ05-08EDQ-APQGX-YCUC8<br>ZG780-8EZ9M-M89LY-M5PEG-W2AZ8<br>YG5H2-ANZ0H-M8ERY-TXZZZ-YKRV8<br>UG5J2-0ME12-M89WY-NPWXX-WQH88<br>UA5DR-2ZD4H-089FY-6YQ5T-YPRX6<br>GA590-86Y05-4806Y-X4PEE-ZV8E0<br>ZF582-0NW5N-H8D2P-0XZEE-Z22VA<br>YA18K-0WY8P-H85DY-L4NZG-X7RAD<br>UY758-0RXEQ-M81WP-8ZM7Z-Y3HDA<br>VF750-4MX5Q-488DQ-9WZE9-ZY2D6<br>UU54R-FVD91-488PP-7NNGC-ZFAX6<br>YC74H-FGF92-081VZ-R5QNG-P6RY4<br>YC34H-6WWDK-085MQ-JYPNX-NZRA2<br>1F04Z-6D111-7Z029-AV0Q4-3AEH8  </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+          <category> 密钥 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vmware workstation </tag>
+            
+            <tag> 激活码 </tag>
+            
+            <tag> 虚拟机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>swagger报错弹窗无法进入</title>
+      <link href="/2020/05/27/swagger%E6%8A%A5%E9%94%99/"/>
+      <url>/2020/05/27/swagger%E6%8A%A5%E9%94%99/</url>
+      
+        <content type="html"><![CDATA[<h1 id="swagger2报错弹窗无法进入"><a href="#swagger2报错弹窗无法进入" class="headerlink" title="swagger2报错弹窗无法进入"></a>swagger2报错弹窗无法进入</h1><pre class=" language-浏览器"><code class="language-浏览器">Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually:</code></pre><hr><p><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/QQ%E5%9B%BE%E7%89%8720200527190937.png" alt="浏览器显示" loading="lazy"></p><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>​         未创建Swagger2的bean，不能加载。</p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>​         在启动类或者Swagger2的配置类上添加@EnableSwagger2注释</p><pre class=" language-java"><code class="language-java"><span class="token annotation punctuation">@EnableSwagger2</span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 解决错误 </category>
+          
+          <category> Java </category>
+          
+          <category> Swagger2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> ERROR </tag>
+            
+            <tag> Swagger </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>NB5060 TJ1TK1 模具 黑苹果保姆级教程整理</title>
+      <link href="/2020/05/22/NB5060%20TJ1TK1%20%E6%A8%A1%E5%85%B7%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/"/>
+      <url>/2020/05/22/NB5060%20TJ1TK1%20%E6%A8%A1%E5%85%B7%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理"><a href="#NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理" class="headerlink" title="NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理"></a><strong>NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理</strong></h1><hr><h3 id="OC安装教程："><a href="#OC安装教程：" class="headerlink" title="OC安装教程："></a>OC安装教程：</h3><p><a href="https://www.bilibili.com/video/BV1x54y1X7tS?from=search&seid=2176805509111663542" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1x54y1X7tS?from=search&amp;seid=2176805509111663542</a><br>（非本人制作，可以多看几遍认真学习学习）</p><hr><h3 id="原版镜像下载推荐"><a href="#原版镜像下载推荐" class="headerlink" title="原版镜像下载推荐"></a>原版镜像下载推荐</h3><p>推荐前往黑果小兵博客下载：<a href="https://blog.daliansky.net/archives/" target="_blank" rel="noopener">https://blog.daliansky.net/archives/</a></p><hr><h3 id="EFI适配机型"><a href="#EFI适配机型" class="headerlink" title="EFI适配机型"></a>EFI适配机型</h3><table><thead><tr><th>模具</th><th>型号列表</th></tr></thead><tbody><tr><td>NB50TJ1</td><td>炫龙毁灭者DCⅡ-8480S2N   炫龙DCⅡ-8481S2N   炫龙毁灭者DCⅡ-5481S1N   炫龙毁灭者DCⅡ-5480S2N   炫龙毁灭者DCⅡ-5440S2N   炫龙毁灭者DCⅡ-8181S1N   战神K670D-G4D5   战神K670E-G6D3   战神K670E-G6E3   战神K670D-G4E5   战神K670D-G4T  战神K670E-G6T3 V2.0   战神K670E-G6T3 海鲅天启K1</td></tr><tr><td>NB50TK1</td><td>炫龙毁灭者DDⅡ-8481S2N  炫龙毁灭者DDⅡ-8181S1N   炫龙毁灭者DDⅡ-5480S2N   炫龙DDⅡ-8480S5N畅玩版   炫龙DDⅡ-8481S2N 炫龙DDⅡ-5480S2N畅玩版   炫龙毁灭者DDⅡ-8411S1N   炫龙毁灭者DDⅡ-8481S1N   战神ZX6-CT5H2   超级战神ZX6-CP5T1   超级战神ZX6-CP5A1   超级战神ZX6-CP5T   战神K680E-G6E3   战神K680E-G6D3 超级战神ZX6-CP5S   战神K680E-G4E4   战神K680E-G4D4   战神K680E-G6T3   战神ZX6-CT5A2   战神K680E-G6    战神K680E-G4T4</td></tr><tr><td>NB60TK1</td><td>炫龙DD2 Plus-5280S2Q 战神 K670T-G6A1 战神 K670T-G4A1 麦本本黑6 天宝X9S</td></tr></tbody></table><hr><h2 id="EFI下载："><a href="#EFI下载：" class="headerlink" title="EFI下载："></a>EFI下载：</h2><p>请前往大神Tao的博客：<a href="https://blog.bavelee.cn/archives/60.html" target="_blank" rel="noopener">https://blog.bavelee.cn/archives/60.html</a>      或者前往他的GitHub下载： <a href="https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases" target="_blank" rel="noopener">https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases</a><br>注意：没有见过大神同意，这里提供下载只提供大神的博客和GitHub，请自行前往下载。</p><hr><h4 id="博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4"><a href="#博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4" class="headerlink" title="博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4"></a><em>博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4</em></h4><p>✅ CPU 睿频变频<br>✅ 核显 UHD630 显存 2048MB<br>✅ 硬件加速 4K HEVC/H.265解码<br>✅ USB3.0 USB2.0 Type-C<br>✅ 声卡 SSDT 完美内建 layout-id 为 29<br>✅ 电池状态与电量百分比<br>✅ 亮度调节与亮度保存<br>✅ 睡眠唤醒<br>✅ 节能五项<br>✅ 有线网卡<br>✅ 无线网卡（需要INTELWIFI 驱动包或者ntelwifi 开机自动连接的脚本驱动包）<br>✅ 蓝牙正常<br>✅ 蓝牙正常<br>❌ 独显不能驱动不能用<br>❌隔空投送不能用<br>演示图：<img src="https://img-blog.csdnimg.cn/20200522130725294.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725250.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725162.png" alt="在这里插入图片描述" loading="lazy"></p><hr><h3 id="调试："><a href="#调试：" class="headerlink" title="调试："></a>调试：</h3><h4 id="1-三码注入"><a href="#1-三码注入" class="headerlink" title="1. 三码注入"></a>1. 三码注入</h4><p>请参照：<a href="https://shuiyunxc.gitee.io/2020/03/16/Three/index/" target="_blank" rel="noopener">https://shuiyunxc.gitee.io/2020/03/16/Three/index/</a>、<br>OpenCore Configurator  链接：<a href="https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA" target="_blank" rel="noopener">https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA</a>  提取码：5tx9<br>OpenCore Configurator 如何挂载分区：先打开OpenCore Configurator，点击右上角OpenCore Configurator图标即可挂载分区<br><img src="https://img-blog.csdnimg.cn/20200522130850970.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"></p><h4 id="2-驱动WIFI"><a href="#2-驱动WIFI" class="headerlink" title="2. 驱动WIFI"></a>2. 驱动WIFI</h4><ul><li>方法一：请参照大神林嘉杰INTELWIFI 驱动包：<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（每次启动都需要启动run文件）</li><li>方法二：请参照大神林嘉杰老昂编译的Intelwifi 开机自动连接的脚本驱动包<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（开机自启动）<br>需要使用的工具：<strong>Hackintool</strong><br>链接：<a href="https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong" target="_blank" rel="noopener">https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong</a><br>提取码：apzd<h4 id="3-HDPI、时间同步等"><a href="#3-HDPI、时间同步等" class="headerlink" title="3.HDPI、时间同步等"></a>3.HDPI、时间同步等</h4>大神Tao提供的EFI文件中的常用附加工具当中都有。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 黑苹果 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 黑苹果 </tag>
+            
+            <tag> OpenCore </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Intellij IDEA 2020.1 父子项目依赖传递问题</title>
+      <link href="/2020/05/21/Intellij%20IDEA%202020.1%20%E7%88%B6%E5%AD%90%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96%E4%BC%A0%E9%80%92%E9%97%AE%E9%A2%98/"/>
+      <url>/2020/05/21/Intellij%20IDEA%202020.1%20%E7%88%B6%E5%AD%90%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96%E4%BC%A0%E9%80%92%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Intellij-IDEA-2020-1-父子项目依赖传递问题"><a href="#Intellij-IDEA-2020-1-父子项目依赖传递问题" class="headerlink" title="Intellij IDEA 2020.1 父子项目依赖传递问题"></a>Intellij IDEA 2020.1 父子项目依赖传递问题</h1><pre class=" language-java"><code class="language-java">Error<span class="token operator">:</span><span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">45</span><span class="token punctuation">)</span> java<span class="token operator">:</span> 程序包com<span class="token punctuation">.</span>baomidou<span class="token punctuation">.</span>mybatisplus<span class="token punctuation">.</span>activerecord不存在Error<span class="token operator">:</span><span class="token punctuation">(</span><span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">44</span><span class="token punctuation">)</span> java<span class="token operator">:</span> 程序包com<span class="token punctuation">.</span>baomidou<span class="token punctuation">.</span>mybatisplus<span class="token punctuation">.</span>annotations不存在Error<span class="token operator">:</span><span class="token punctuation">(</span><span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">44</span><span class="token punctuation">)</span> java<span class="token operator">:</span> 程序包com<span class="token punctuation">.</span>baomidou<span class="token punctuation">.</span>mybatisplus<span class="token punctuation">.</span>annotations不存在Error<span class="token operator">:</span><span class="token punctuation">(</span><span class="token number">6</span><span class="token punctuation">,</span> <span class="token number">38</span><span class="token punctuation">)</span> java<span class="token operator">:</span> 程序包com<span class="token punctuation">.</span>baomidou<span class="token punctuation">.</span>mybatisplus<span class="token punctuation">.</span>enums不存在    <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span></code></pre><p><img src="https://img-blog.csdnimg.cn/20200521213017666.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70#pic_center#pic_center" alt="" loading="lazy"><br>刷新，clean，删除jar包重新下载，重启IDEA，重启电脑都没有解决。</p><p>原因 ：如果是2020.1版本的IDEA你修改了默认的Maven地址，那么下载jar包的时候会下载到你maven指定的依赖位置。而在但是在编译的时候IDEA回去找IDEA默认的.m2文件下的jar包。</p><p>加上maven Help</p><pre class=" language-java"><code class="language-java">Warning<span class="token operator">:</span>Kotlin<span class="token operator">:</span> Classpath entry points to a non<span class="token operator">-</span>existent location<span class="token operator">:</span> C<span class="token operator">:</span>\Users\<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>\<span class="token punctuation">.</span>m2 不存在 jar包 </code></pre><p>解决方法一：更换老版本IDEA，本人更换到IDEA2019.2.2，不懂代码完美运行。</p><p>解决方法二：理论方法（未实践）更改maven，使用IDEA自带的maven。</p><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>个人建议使用方法一，应为本人以及完美解决问题。而方法二还在理论阶段没有试验。</p><p>个人小建议：IDEA不要盲目去追新，老版本不一定就比新版本差。好的情况下老版本其实比新版本更加好用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 解决错误 </category>
+          
+          <category> Java </category>
+          
+          <category> Maven </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> IDEA </tag>
+            
+            <tag> Maven </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>报错The bean ‘item-service.FeignClientSpecification’ could not be registered. A bean with that name</title>
+      <link href="/2020/05/19/%E6%8A%A5%E9%94%99The%20bean%20%E2%80%98item-service.FeignClientSpecification%E2%80%99%20could%20not%20be%20registered.%20A%20bean%20with%20that%20name/"/>
+      <url>/2020/05/19/%E6%8A%A5%E9%94%99The%20bean%20%E2%80%98item-service.FeignClientSpecification%E2%80%99%20could%20not%20be%20registered.%20A%20bean%20with%20that%20name/</url>
+      
+        <content type="html"><![CDATA[<p>2020-04-16 15:27:55.970 ERROR 14704 — [           main] o.s.b.d.LoggingFailureAnalysisReporter   : </p><pre><code>*****************************APPLICATION FAILED TO START*****************************Description:The bean &#39;item-service.FeignClientSpecification&#39; could not be registered. A bean with that name has already been defined and overriding is disabled.</code></pre><p>翻译：Bean’item-service.FeignClientSpecification’无法注册。已经定义了具有该名称的Bean，并且禁用了覆盖。</p><p><strong>解决方法</strong>：启用，在配置文件yml中添加</p><pre class=" language-java"><code class="language-java">spring<span class="token operator">:</span>  main<span class="token operator">:</span>    allow<span class="token operator">-</span>bean<span class="token operator">-</span>definition<span class="token operator">-</span>overriding<span class="token operator">:</span> <span class="token boolean">true</span></code></pre><p><a href="https://www.jianshu.com/p/16a526379e8f" target="_blank" rel="noopener">博客原址</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 解决错误 </category>
+          
+          <category> Java </category>
+          
+          <category> Bean </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> ERROR </tag>
+            
+            <tag> springboot </tag>
+            
+            <tag> bean </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新人报道</title>
+      <link href="/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="新人报道"><a href="#新人报道" class="headerlink" title="新人报道"></a>新人报道</h1><p>在校大学学生，IT新手。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
