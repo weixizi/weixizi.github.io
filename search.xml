@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>HTTP协议请求简单汇总</title>
+      <link href="/2020/07/10/HTTP%E5%8D%8F%E8%AE%AE%E8%AF%B7%E6%B1%82%E7%AE%80%E5%8D%95%E6%B1%87%E6%80%BB/"/>
+      <url>/2020/07/10/HTTP%E5%8D%8F%E8%AE%AE%E8%AF%B7%E6%B1%82%E7%AE%80%E5%8D%95%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<h2 id="HTTP协议请求简单汇总"><a href="#HTTP协议请求简单汇总" class="headerlink" title="HTTP协议请求简单汇总"></a>HTTP协议请求简单汇总</h2><table><thead><tr><th>方法</th><th>说明</th><th>支持的HTTP协议版本</th></tr></thead><tbody><tr><td>GET</td><td>获取资源</td><td>1.0、1.1</td></tr><tr><td>POST</td><td>传输实体主体</td><td>1.0、1.1</td></tr><tr><td>PUT</td><td>传输文件</td><td>1.0、1.1</td></tr><tr><td>HEAD</td><td>获取报文首部</td><td>1.0、1.1</td></tr><tr><td>DELETE</td><td>删除文件</td><td>1.0、1.1</td></tr><tr><td>OPTIONS</td><td>询问支持的方法</td><td>1.1</td></tr><tr><td>TRACE</td><td>追踪路径</td><td>1.1</td></tr><tr><td>CONNECT</td><td>要求用隧道协议连接代理</td><td>1.1</td></tr><tr><td>LINK</td><td>建立和资源之间的联系</td><td>1.0</td></tr><tr><td>UNLINK</td><td>断开连接关系</td><td>1.0</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Http </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Http </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vmware workstation pro 永久激活密钥</title>
       <link href="/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
       <url>/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/</url>
@@ -150,11 +175,11 @@
             
             <tag> Java </tag>
             
-            <tag> ERROR </tag>
-            
             <tag> springboot </tag>
             
             <tag> bean </tag>
+            
+            <tag> ERROR </tag>
             
         </tags>
       
