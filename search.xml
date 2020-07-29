@@ -1,53 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>NB5060 TJ1TK1 模具 黑苹果保姆级教程整理</title>
-    <url>/2020/05/22/NB5060%20TJ1TK1%20%E6%A8%A1%E5%85%B7%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</url>
-    <content><![CDATA[<h1 id="NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理"><a href="#NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理" class="headerlink" title="NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理"></a><strong>NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理</strong></h1><hr>
-<h3 id="OC安装教程："><a href="#OC安装教程：" class="headerlink" title="OC安装教程："></a>OC安装教程：</h3><p><a href="https://www.bilibili.com/video/BV1x54y1X7tS?from=search&seid=2176805509111663542" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1x54y1X7tS?from=search&amp;seid=2176805509111663542</a><br>（非本人制作，可以多看几遍认真学习学习）</p>
-<hr>
-<h3 id="原版镜像下载推荐"><a href="#原版镜像下载推荐" class="headerlink" title="原版镜像下载推荐"></a>原版镜像下载推荐</h3><p>推荐前往黑果小兵博客下载：<a href="https://blog.daliansky.net/archives/" target="_blank" rel="noopener">https://blog.daliansky.net/archives/</a></p>
-<hr>
-<h3 id="EFI适配机型"><a href="#EFI适配机型" class="headerlink" title="EFI适配机型"></a>EFI适配机型</h3><table>
-<thead>
-<tr>
-<th>模具</th>
-<th>型号列表</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>NB50TJ1</td>
-<td>炫龙毁灭者DCⅡ-8480S2N   炫龙DCⅡ-8481S2N   炫龙毁灭者DCⅡ-5481S1N   炫龙毁灭者DCⅡ-5480S2N   炫龙毁灭者DCⅡ-5440S2N   炫龙毁灭者DCⅡ-8181S1N   战神K670D-G4D5   战神K670E-G6D3   战神K670E-G6E3   战神K670D-G4E5   战神K670D-G4T  战神K670E-G6T3 V2.0   战神K670E-G6T3 海鲅天启K1</td>
-</tr>
-<tr>
-<td>NB50TK1</td>
-<td>炫龙毁灭者DDⅡ-8481S2N  炫龙毁灭者DDⅡ-8181S1N   炫龙毁灭者DDⅡ-5480S2N   炫龙DDⅡ-8480S5N畅玩版   炫龙DDⅡ-8481S2N 炫龙DDⅡ-5480S2N畅玩版   炫龙毁灭者DDⅡ-8411S1N   炫龙毁灭者DDⅡ-8481S1N   战神ZX6-CT5H2   超级战神ZX6-CP5T1   超级战神ZX6-CP5A1   超级战神ZX6-CP5T   战神K680E-G6E3   战神K680E-G6D3 超级战神ZX6-CP5S   战神K680E-G4E4   战神K680E-G4D4   战神K680E-G6T3   战神ZX6-CT5A2   战神K680E-G6    战神K680E-G4T4</td>
-</tr>
-<tr>
-<td>NB60TK1</td>
-<td>炫龙DD2 Plus-5280S2Q 战神 K670T-G6A1 战神 K670T-G4A1 麦本本黑6 天宝X9S</td>
-</tr>
-</tbody></table>
-<hr>
-<h2 id="EFI下载："><a href="#EFI下载：" class="headerlink" title="EFI下载："></a>EFI下载：</h2><p>请前往大神Tao的博客：<a href="https://blog.bavelee.cn/archives/60.html" target="_blank" rel="noopener">https://blog.bavelee.cn/archives/60.html</a>      或者前往他的GitHub下载： <a href="https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases" target="_blank" rel="noopener">https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases</a><br>注意：没有见过大神同意，这里提供下载只提供大神的博客和GitHub，请自行前往下载。</p>
-<hr>
-<h4 id="博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4"><a href="#博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4" class="headerlink" title="博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4"></a><em>博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4</em></h4><p>✅ CPU 睿频变频<br>✅ 核显 UHD630 显存 2048MB<br>✅ 硬件加速 4K HEVC/H.265解码<br>✅ USB3.0 USB2.0 Type-C<br>✅ 声卡 SSDT 完美内建 layout-id 为 29<br>✅ 电池状态与电量百分比<br>✅ 亮度调节与亮度保存<br>✅ 睡眠唤醒<br>✅ 节能五项<br>✅ 有线网卡<br>✅ 无线网卡（需要INTELWIFI 驱动包或者ntelwifi 开机自动连接的脚本驱动包）<br>✅ 蓝牙正常<br>✅ 蓝牙正常<br>❌ 独显不能驱动不能用<br>❌隔空投送不能用<br>演示图：<img src="https://img-blog.csdnimg.cn/20200522130725294.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725250.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725162.png" alt="在这里插入图片描述" loading="lazy"></p>
-<hr>
-<h3 id="调试："><a href="#调试：" class="headerlink" title="调试："></a>调试：</h3><h4 id="1-三码注入"><a href="#1-三码注入" class="headerlink" title="1. 三码注入"></a>1. 三码注入</h4><p>请参照：<a href="https://shuiyunxc.gitee.io/2020/03/16/Three/index/" target="_blank" rel="noopener">https://shuiyunxc.gitee.io/2020/03/16/Three/index/</a>、<br>OpenCore Configurator  链接：<a href="https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA" target="_blank" rel="noopener">https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA</a>  提取码：5tx9<br>OpenCore Configurator 如何挂载分区：先打开OpenCore Configurator，点击右上角OpenCore Configurator图标即可挂载分区<br><img src="https://img-blog.csdnimg.cn/20200522130850970.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"></p>
-<h4 id="2-驱动WIFI"><a href="#2-驱动WIFI" class="headerlink" title="2. 驱动WIFI"></a>2. 驱动WIFI</h4><ul>
-<li>方法一：请参照大神林嘉杰INTELWIFI 驱动包：<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（每次启动都需要启动run文件）</li>
-<li>方法二：请参照大神林嘉杰老昂编译的Intelwifi 开机自动连接的脚本驱动包<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（开机自启动）<br>需要使用的工具：<strong>Hackintool</strong><br>链接：<a href="https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong" target="_blank" rel="noopener">https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong</a><br>提取码：apzd<h4 id="3-HDPI、时间同步等"><a href="#3-HDPI、时间同步等" class="headerlink" title="3.HDPI、时间同步等"></a>3.HDPI、时间同步等</h4>大神Tao提供的EFI文件中的常用附加工具当中都有。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>黑苹果</category>
-      </categories>
-      <tags>
-        <tag>黑苹果</tag>
-        <tag>OpenCore</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>HTTP协议请求简单汇总</title>
     <url>/2020/07/10/HTTP%E5%8D%8F%E8%AE%AE%E8%AF%B7%E6%B1%82%E7%AE%80%E5%8D%95%E6%B1%87%E6%80%BB/</url>
     <content><![CDATA[<h2 id="HTTP协议请求简单汇总"><a href="#HTTP协议请求简单汇总" class="headerlink" title="HTTP协议请求简单汇总"></a>HTTP协议请求简单汇总</h2><table>
@@ -150,152 +103,50 @@ Error<span class="token operator">:</span><span class="token punctuation">(</spa
       </tags>
   </entry>
   <entry>
-    <title>ElasticSearch简单入门</title>
-    <url>/2020/07/29/es/</url>
-    <content><![CDATA[<h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><p>ElasticSearch 7.6.1</p>
-<p>IK分词器 7.6.1</p>
-<p>Kibana 7.6.1</p>
-<p>ElasticSearch head</p>
-<h2 id="使用工具"><a href="#使用工具" class="headerlink" title="使用工具"></a>使用工具</h2><ul>
-<li><p>ElasticSearch 本体    <a href="https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1</a> </p>
-</li>
-<li><p>IK分词器    <a href="https://github.com/medcl/elasticsearch-analysis-ik/releases" target="_blank" rel="noopener">https://github.com/medcl/elasticsearch-analysis-ik/releases</a> </p>
-</li>
-<li><p>Kibana    <a href="https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1</a> </p>
-</li>
-<li><p>ElasticSearch head    <a href="https://github.com/mobz/elasticsearch-head" target="_blank" rel="noopener">https://github.com/mobz/elasticsearch-head</a> </p>
-</li>
+    <title>NB5060 TJ1TK1 模具 黑苹果保姆级教程整理</title>
+    <url>/2020/05/22/NB5060%20TJ1TK1%20%E6%A8%A1%E5%85%B7%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</url>
+    <content><![CDATA[<h1 id="NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理"><a href="#NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理" class="headerlink" title="NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理"></a><strong>NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理</strong></h1><hr>
+<h3 id="OC安装教程："><a href="#OC安装教程：" class="headerlink" title="OC安装教程："></a>OC安装教程：</h3><p><a href="https://www.bilibili.com/video/BV1x54y1X7tS?from=search&seid=2176805509111663542" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1x54y1X7tS?from=search&amp;seid=2176805509111663542</a><br>（非本人制作，可以多看几遍认真学习学习）</p>
+<hr>
+<h3 id="原版镜像下载推荐"><a href="#原版镜像下载推荐" class="headerlink" title="原版镜像下载推荐"></a>原版镜像下载推荐</h3><p>推荐前往黑果小兵博客下载：<a href="https://blog.daliansky.net/archives/" target="_blank" rel="noopener">https://blog.daliansky.net/archives/</a></p>
+<hr>
+<h3 id="EFI适配机型"><a href="#EFI适配机型" class="headerlink" title="EFI适配机型"></a>EFI适配机型</h3><table>
+<thead>
+<tr>
+<th>模具</th>
+<th>型号列表</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>NB50TJ1</td>
+<td>炫龙毁灭者DCⅡ-8480S2N   炫龙DCⅡ-8481S2N   炫龙毁灭者DCⅡ-5481S1N   炫龙毁灭者DCⅡ-5480S2N   炫龙毁灭者DCⅡ-5440S2N   炫龙毁灭者DCⅡ-8181S1N   战神K670D-G4D5   战神K670E-G6D3   战神K670E-G6E3   战神K670D-G4E5   战神K670D-G4T  战神K670E-G6T3 V2.0   战神K670E-G6T3 海鲅天启K1</td>
+</tr>
+<tr>
+<td>NB50TK1</td>
+<td>炫龙毁灭者DDⅡ-8481S2N  炫龙毁灭者DDⅡ-8181S1N   炫龙毁灭者DDⅡ-5480S2N   炫龙DDⅡ-8480S5N畅玩版   炫龙DDⅡ-8481S2N 炫龙DDⅡ-5480S2N畅玩版   炫龙毁灭者DDⅡ-8411S1N   炫龙毁灭者DDⅡ-8481S1N   战神ZX6-CT5H2   超级战神ZX6-CP5T1   超级战神ZX6-CP5A1   超级战神ZX6-CP5T   战神K680E-G6E3   战神K680E-G6D3 超级战神ZX6-CP5S   战神K680E-G4E4   战神K680E-G4D4   战神K680E-G6T3   战神ZX6-CT5A2   战神K680E-G6    战神K680E-G4T4</td>
+</tr>
+<tr>
+<td>NB60TK1</td>
+<td>炫龙DD2 Plus-5280S2Q 战神 K670T-G6A1 战神 K670T-G4A1 麦本本黑6 天宝X9S</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="EFI下载："><a href="#EFI下载：" class="headerlink" title="EFI下载："></a>EFI下载：</h2><p>请前往大神Tao的博客：<a href="https://blog.bavelee.cn/archives/60.html" target="_blank" rel="noopener">https://blog.bavelee.cn/archives/60.html</a>      或者前往他的GitHub下载： <a href="https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases" target="_blank" rel="noopener">https://github.com/bavelee/NB5TK1_TJ1-Hackintosh/releases</a><br>注意：没有见过大神同意，这里提供下载只提供大神的博客和GitHub，请自行前往下载。</p>
+<hr>
+<h4 id="博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4"><a href="#博主本人电脑战神ZX6-kp5t1完美运行macOS-Catalina-10-15-4" class="headerlink" title="博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4"></a><em>博主本人电脑战神ZX6-kp5t1完美运行macOS Catalina 10.15.4</em></h4><p>✅ CPU 睿频变频<br>✅ 核显 UHD630 显存 2048MB<br>✅ 硬件加速 4K HEVC/H.265解码<br>✅ USB3.0 USB2.0 Type-C<br>✅ 声卡 SSDT 完美内建 layout-id 为 29<br>✅ 电池状态与电量百分比<br>✅ 亮度调节与亮度保存<br>✅ 睡眠唤醒<br>✅ 节能五项<br>✅ 有线网卡<br>✅ 无线网卡（需要INTELWIFI 驱动包或者ntelwifi 开机自动连接的脚本驱动包）<br>✅ 蓝牙正常<br>✅ 蓝牙正常<br>❌ 独显不能驱动不能用<br>❌隔空投送不能用<br>演示图：<img src="https://img-blog.csdnimg.cn/20200522130725294.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725250.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述" loading="lazy"><br><img src="https://img-blog.csdnimg.cn/20200522130725162.png" alt="在这里插入图片描述" loading="lazy"></p>
+<hr>
+<h3 id="调试："><a href="#调试：" class="headerlink" title="调试："></a>调试：</h3><h4 id="1-三码注入"><a href="#1-三码注入" class="headerlink" title="1. 三码注入"></a>1. 三码注入</h4><p>请参照：<a href="https://shuiyunxc.gitee.io/2020/03/16/Three/index/" target="_blank" rel="noopener">https://shuiyunxc.gitee.io/2020/03/16/Three/index/</a>、<br>OpenCore Configurator  链接：<a href="https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA" target="_blank" rel="noopener">https://pan.baidu.com/s/11Uhc5AFqfgnhA278CEFWfA</a>  提取码：5tx9<br>OpenCore Configurator 如何挂载分区：先打开OpenCore Configurator，点击右上角OpenCore Configurator图标即可挂载分区<br><img src="https://img-blog.csdnimg.cn/20200522130850970.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkxMzIyMg==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述" loading="lazy"></p>
+<h4 id="2-驱动WIFI"><a href="#2-驱动WIFI" class="headerlink" title="2. 驱动WIFI"></a>2. 驱动WIFI</h4><ul>
+<li>方法一：请参照大神林嘉杰INTELWIFI 驱动包：<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（每次启动都需要启动run文件）</li>
+<li>方法二：请参照大神林嘉杰老昂编译的Intelwifi 开机自动连接的脚本驱动包<a href="http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856465&extra=page=1&filter=typeid&typeid=1363&typeid=1363" target="_blank" rel="noopener">http://bbs.pcbeta.com/forum.phpmod=viewthread&amp;tid=1856465&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D1363%26typeid%3D1363</a>（开机自启动）<br>需要使用的工具：<strong>Hackintool</strong><br>链接：<a href="https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong" target="_blank" rel="noopener">https://pan.baidu.com/s/17gIevZSM_HRu0tKUo7gong</a><br>提取码：apzd<h4 id="3-HDPI、时间同步等"><a href="#3-HDPI、时间同步等" class="headerlink" title="3.HDPI、时间同步等"></a>3.HDPI、时间同步等</h4>大神Tao提供的EFI文件中的常用附加工具当中都有。</li>
 </ul>
 ]]></content>
       <categories>
-        <category>搜索</category>
-        <category>ElasticSearch</category>
+        <category>黑苹果</category>
       </categories>
       <tags>
-        <tag>ElasticSearch</tag>
-        <tag>搜索</tag>
-        <tag>java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Redis的3种特殊类型</title>
-    <url>/2020/07/29/redis%E9%AB%98%E7%BA%A7/</url>
-    <content><![CDATA[<h2 id="GeoSpatial"><a href="#GeoSpatial" class="headerlink" title="GeoSpatial"></a>GeoSpatial</h2><h4 id="添加城市"><a href="#添加城市" class="headerlink" title="添加城市"></a>添加城市</h4><p>GEOADD key longitude latitude member [longitude latitude member …]</p>
-<p>注：经纬度的合理性，不合理会无法添加</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> geoadd China:city 116.397128 39.916527 beijin <span class="token comment" spellcheck="true">#添加一个城市北京</span>
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
-127.0.0.1:6379<span class="token operator">></span> geoadd China:city 112.98626 28.25591 changsha 106.54041 29.40268 chongqin 121.48941 31.40527 shanghai 113.27324 23.15792 guangzhou
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 4 <span class="token comment" spellcheck="true">#一次性添加多个</span></code></pre>
-<h4 id="查询俩点直线距离"><a href="#查询俩点直线距离" class="headerlink" title="查询俩点直线距离"></a>查询俩点直线距离</h4><p>GEODIST key member1 member2 [unit]</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEODIST China:city beijin chongqin km <span class="token comment" spellcheck="true">#查看北京和重庆的直线距离，指定结果单位为km</span>
-<span class="token string">"1474.6260"</span>
-127.0.0.1:6379<span class="token operator">></span> GEODIST China:city beijin changsha km
-<span class="token string">"1334.1760"</span></code></pre>
-<h4 id="通过经纬为中心查询半径类的点"><a href="#通过经纬为中心查询半径类的点" class="headerlink" title="通过经纬为中心查询半径类的点"></a>通过经纬为中心查询半径类的点</h4><p>GEORADIUS key longitude latitude radius m|km|ft|mi [WITHCOORD] [WITHDIST] [WITHHASH] [COUNT count] [ASC|DESC] [STO</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 1500 km <span class="token comment" spellcheck="true">#查看到点100，30距离在1500km以内的城市</span>
-1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
-2<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withdist <span class="token comment" spellcheck="true">#结果带上距离</span>
-1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
-   2<span class="token punctuation">)</span> <span class="token string">"635.2845"</span>
-2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
-   2<span class="token punctuation">)</span> <span class="token string">"1522.2270"</span>
-3<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-   2<span class="token punctuation">)</span> <span class="token string">"1275.8431"</span>
-4<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
-   2<span class="token punctuation">)</span> <span class="token string">"2057.8186"</span>
-5<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"beijin"</span>
-   2<span class="token punctuation">)</span> <span class="token string">"1852.5507"</span>
-127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withcoord <span class="token comment" spellcheck="true">#结果带上经纬度</span>
-1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"106.54040783643722534"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"29.40268053517299762"</span>
-2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"113.27324062585830688"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"23.1579209662846921"</span>
-3<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"112.98626035451889038"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"28.25590931465907119"</span>
-4<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"121.48941010236740112"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"31.40526993848380499"</span>
-5<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"beijin"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"116.39712899923324585"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"39.91652647362980844"</span>
-127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withcoord count 2 <span class="token comment" spellcheck="true">#指定结果数量</span>
-1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"106.54040783643722534"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"29.40268053517299762"</span>
-2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"112.98626035451889038"</span>
-      2<span class="token punctuation">)</span> <span class="token string">"28.25590931465907119"</span></code></pre>
-<h4 id="找出指定元素指定半径范围内的元素"><a href="#找出指定元素指定半径范围内的元素" class="headerlink" title="找出指定元素指定半径范围内的元素"></a>找出指定元素指定半径范围内的元素</h4><p> GEORADIUSBYMEMBER key member radius m|km|ft|mi [WITHCOORD] [WITHDIST] [WITHHASH] [COUNT count] [ASC|DESC] [STORE k</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEORADIUSBYMEMBER China:city changsha 1000 km 找出离长沙1000km以内的城市
-1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
-2<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-3<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
-4<span class="token punctuation">)</span> <span class="token string">"chongqin"</span></code></pre>
-<h4 id="将经纬转为字符串"><a href="#将经纬转为字符串" class="headerlink" title="将经纬转为字符串"></a>将经纬转为字符串</h4><p>GEOHASH key member [member …]</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEOHASH China:city changsha
-1<span class="token punctuation">)</span> <span class="token string">"wt02epf4de0"</span></code></pre>
-<h4 id="查看元素"><a href="#查看元素" class="headerlink" title="查看元素"></a>查看元素</h4><p> ZRANGE key start stop [WITHSCORES]</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> ZRANGE China:city 0 -1
-1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
-2<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
-3<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
-4<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
-5<span class="token punctuation">)</span> <span class="token string">"beijin"</span></code></pre>
-<h2 id="Hyperloglog"><a href="#Hyperloglog" class="headerlink" title="Hyperloglog"></a>Hyperloglog</h2><p>注：有出错的可能性，需要有容错。</p>
-<h4 id="添加一组元素"><a href="#添加一组元素" class="headerlink" title="添加一组元素"></a>添加一组元素</h4><p>PFADD key element [element …]</p>
-<h4 id="查看数量"><a href="#查看数量" class="headerlink" title="查看数量"></a>查看数量</h4><p>PFCOUNT key [key …]</p>
-<h4 id="合并元组"><a href="#合并元组" class="headerlink" title="合并元组"></a>合并元组</h4><p>PFMERGE destkey sourcekey [sourcekey …]</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> PFADD key1 a b c d e f g j f g e
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
-127.0.0.1:6379<span class="token operator">></span> PFCOUNT key1
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 8
-127.0.0.1:6379<span class="token operator">></span> PFADD key2 q w e r t y u i o p
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
-127.0.0.1:6379<span class="token operator">></span> PFCOUNT key2
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 10
-127.0.0.1:6379<span class="token operator">></span> PFMERGE key3 key1 key2
-OK
-127.0.0.1:6379<span class="token operator">></span> PFCOUNT key3
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 16
-127.0.0.1:6379<span class="token operator">></span> PFMERGE destkey sourcekey <span class="token punctuation">[</span>sourcekey <span class="token punctuation">..</span>.<span class="token punctuation">]</span></code></pre>
-<h2 id="BitMaps-（位储存）"><a href="#BitMaps-（位储存）" class="headerlink" title="BitMaps （位储存）"></a>BitMaps （位储存）</h2><p>注意：是操作二进制位来进行记录，只有0,1俩个状态</p>
-<h4 id="添加"><a href="#添加" class="headerlink" title="添加"></a>添加</h4><p>SETBIT key offset value</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> SETBIT sign 0 1
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 1 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 2 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 3 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 4 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 5 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> SETBIT sign 6 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0</code></pre>
-<h4 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h4><p>GETBIT key offset</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GETBIT sign 4
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
-127.0.0.1:6379<span class="token operator">></span> GETBIT sign 0
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1</code></pre>
-<h4 id="统计"><a href="#统计" class="headerlink" title="统计"></a>统计</h4><p>BITCOUNT key [start end]</p>
-<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> BITCOUNT sign
-<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1</code></pre>
-]]></content>
-      <categories>
-        <category>Redis</category>
-        <category>NOSQL</category>
-        <category>数据库</category>
-      </categories>
-      <tags>
-        <tag>Redis</tag>
-        <tag>NoSQL</tag>
-        <tag>数据库</tag>
+        <tag>黑苹果</tag>
+        <tag>OpenCore</tag>
       </tags>
   </entry>
   <entry>
@@ -1179,15 +1030,37 @@ OK
       </categories>
       <tags>
         <tag>Redis</tag>
-        <tag>数据库</tag>
         <tag>NOSQL</tag>
+        <tag>数据库</tag>
       </tags>
   </entry>
   <entry>
-    <title>新人报道</title>
-    <url>/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h1 id="新人报道"><a href="#新人报道" class="headerlink" title="新人报道"></a>新人报道</h1><p>在校大学学生，IT新手。</p>
+    <title>ElasticSearch简单入门</title>
+    <url>/2020/07/29/es/</url>
+    <content><![CDATA[<h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><p>ElasticSearch 7.6.1</p>
+<p>IK分词器 7.6.1</p>
+<p>Kibana 7.6.1</p>
+<p>ElasticSearch head</p>
+<h2 id="使用工具"><a href="#使用工具" class="headerlink" title="使用工具"></a>使用工具</h2><ul>
+<li><p>ElasticSearch 本体    <a href="https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1</a> </p>
+</li>
+<li><p>IK分词器    <a href="https://github.com/medcl/elasticsearch-analysis-ik/releases" target="_blank" rel="noopener">https://github.com/medcl/elasticsearch-analysis-ik/releases</a> </p>
+</li>
+<li><p>Kibana    <a href="https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1</a> </p>
+</li>
+<li><p>ElasticSearch head    <a href="https://github.com/mobz/elasticsearch-head" target="_blank" rel="noopener">https://github.com/mobz/elasticsearch-head</a> </p>
+</li>
+</ul>
 ]]></content>
+      <categories>
+        <category>搜索</category>
+        <category>ElasticSearch</category>
+      </categories>
+      <tags>
+        <tag>ElasticSearch</tag>
+        <tag>搜索</tag>
+        <tag>java</tag>
+      </tags>
   </entry>
   <entry>
     <title>swagger报错弹窗无法进入</title>
@@ -1213,6 +1086,133 @@ url is http://example.org/api/. Please enter the location manually:</code></pre>
         <tag>ERROR</tag>
         <tag>Swagger</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Redis的3种特殊类型</title>
+    <url>/2020/07/29/redis%E9%AB%98%E7%BA%A7/</url>
+    <content><![CDATA[<h2 id="GeoSpatial"><a href="#GeoSpatial" class="headerlink" title="GeoSpatial"></a>GeoSpatial</h2><h4 id="添加城市"><a href="#添加城市" class="headerlink" title="添加城市"></a>添加城市</h4><p>GEOADD key longitude latitude member [longitude latitude member …]</p>
+<p>注：经纬度的合理性，不合理会无法添加</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> geoadd China:city 116.397128 39.916527 beijin <span class="token comment" spellcheck="true">#添加一个城市北京</span>
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
+127.0.0.1:6379<span class="token operator">></span> geoadd China:city 112.98626 28.25591 changsha 106.54041 29.40268 chongqin 121.48941 31.40527 shanghai 113.27324 23.15792 guangzhou
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 4 <span class="token comment" spellcheck="true">#一次性添加多个</span></code></pre>
+<h4 id="查询俩点直线距离"><a href="#查询俩点直线距离" class="headerlink" title="查询俩点直线距离"></a>查询俩点直线距离</h4><p>GEODIST key member1 member2 [unit]</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEODIST China:city beijin chongqin km <span class="token comment" spellcheck="true">#查看北京和重庆的直线距离，指定结果单位为km</span>
+<span class="token string">"1474.6260"</span>
+127.0.0.1:6379<span class="token operator">></span> GEODIST China:city beijin changsha km
+<span class="token string">"1334.1760"</span></code></pre>
+<h4 id="通过经纬为中心查询半径类的点"><a href="#通过经纬为中心查询半径类的点" class="headerlink" title="通过经纬为中心查询半径类的点"></a>通过经纬为中心查询半径类的点</h4><p>GEORADIUS key longitude latitude radius m|km|ft|mi [WITHCOORD] [WITHDIST] [WITHHASH] [COUNT count] [ASC|DESC] [STO</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 1500 km <span class="token comment" spellcheck="true">#查看到点100，30距离在1500km以内的城市</span>
+1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
+2<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withdist <span class="token comment" spellcheck="true">#结果带上距离</span>
+1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
+   2<span class="token punctuation">)</span> <span class="token string">"635.2845"</span>
+2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
+   2<span class="token punctuation">)</span> <span class="token string">"1522.2270"</span>
+3<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+   2<span class="token punctuation">)</span> <span class="token string">"1275.8431"</span>
+4<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
+   2<span class="token punctuation">)</span> <span class="token string">"2057.8186"</span>
+5<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"beijin"</span>
+   2<span class="token punctuation">)</span> <span class="token string">"1852.5507"</span>
+127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withcoord <span class="token comment" spellcheck="true">#结果带上经纬度</span>
+1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"106.54040783643722534"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"29.40268053517299762"</span>
+2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"113.27324062585830688"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"23.1579209662846921"</span>
+3<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"112.98626035451889038"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"28.25590931465907119"</span>
+4<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"121.48941010236740112"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"31.40526993848380499"</span>
+5<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"beijin"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"116.39712899923324585"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"39.91652647362980844"</span>
+127.0.0.1:6379<span class="token operator">></span> GEORADIUS China:city 100 30 5000 km withcoord count 2 <span class="token comment" spellcheck="true">#指定结果数量</span>
+1<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"106.54040783643722534"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"29.40268053517299762"</span>
+2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+   2<span class="token punctuation">)</span> 1<span class="token punctuation">)</span> <span class="token string">"112.98626035451889038"</span>
+      2<span class="token punctuation">)</span> <span class="token string">"28.25590931465907119"</span></code></pre>
+<h4 id="找出指定元素指定半径范围内的元素"><a href="#找出指定元素指定半径范围内的元素" class="headerlink" title="找出指定元素指定半径范围内的元素"></a>找出指定元素指定半径范围内的元素</h4><p> GEORADIUSBYMEMBER key member radius m|km|ft|mi [WITHCOORD] [WITHDIST] [WITHHASH] [COUNT count] [ASC|DESC] [STORE k</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEORADIUSBYMEMBER China:city changsha 1000 km 找出离长沙1000km以内的城市
+1<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
+2<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+3<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
+4<span class="token punctuation">)</span> <span class="token string">"chongqin"</span></code></pre>
+<h4 id="将经纬转为字符串"><a href="#将经纬转为字符串" class="headerlink" title="将经纬转为字符串"></a>将经纬转为字符串</h4><p>GEOHASH key member [member …]</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GEOHASH China:city changsha
+1<span class="token punctuation">)</span> <span class="token string">"wt02epf4de0"</span></code></pre>
+<h4 id="查看元素"><a href="#查看元素" class="headerlink" title="查看元素"></a>查看元素</h4><p> ZRANGE key start stop [WITHSCORES]</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> ZRANGE China:city 0 -1
+1<span class="token punctuation">)</span> <span class="token string">"chongqin"</span>
+2<span class="token punctuation">)</span> <span class="token string">"guangzhou"</span>
+3<span class="token punctuation">)</span> <span class="token string">"changsha"</span>
+4<span class="token punctuation">)</span> <span class="token string">"shanghai"</span>
+5<span class="token punctuation">)</span> <span class="token string">"beijin"</span></code></pre>
+<h2 id="Hyperloglog"><a href="#Hyperloglog" class="headerlink" title="Hyperloglog"></a>Hyperloglog</h2><p>注：有出错的可能性，需要有容错。</p>
+<h4 id="添加一组元素"><a href="#添加一组元素" class="headerlink" title="添加一组元素"></a>添加一组元素</h4><p>PFADD key element [element …]</p>
+<h4 id="查看数量"><a href="#查看数量" class="headerlink" title="查看数量"></a>查看数量</h4><p>PFCOUNT key [key …]</p>
+<h4 id="合并元组"><a href="#合并元组" class="headerlink" title="合并元组"></a>合并元组</h4><p>PFMERGE destkey sourcekey [sourcekey …]</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> PFADD key1 a b c d e f g j f g e
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
+127.0.0.1:6379<span class="token operator">></span> PFCOUNT key1
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 8
+127.0.0.1:6379<span class="token operator">></span> PFADD key2 q w e r t y u i o p
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1
+127.0.0.1:6379<span class="token operator">></span> PFCOUNT key2
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 10
+127.0.0.1:6379<span class="token operator">></span> PFMERGE key3 key1 key2
+OK
+127.0.0.1:6379<span class="token operator">></span> PFCOUNT key3
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 16
+127.0.0.1:6379<span class="token operator">></span> PFMERGE destkey sourcekey <span class="token punctuation">[</span>sourcekey <span class="token punctuation">..</span>.<span class="token punctuation">]</span></code></pre>
+<h2 id="BitMaps-（位储存）"><a href="#BitMaps-（位储存）" class="headerlink" title="BitMaps （位储存）"></a>BitMaps （位储存）</h2><p>注意：是操作二进制位来进行记录，只有0,1俩个状态</p>
+<h4 id="添加"><a href="#添加" class="headerlink" title="添加"></a>添加</h4><p>SETBIT key offset value</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> SETBIT sign 0 1
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 1 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 2 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 3 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 4 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 5 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> SETBIT sign 6 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0</code></pre>
+<h4 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h4><p>GETBIT key offset</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> GETBIT sign 4
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 0
+127.0.0.1:6379<span class="token operator">></span> GETBIT sign 0
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1</code></pre>
+<h4 id="统计"><a href="#统计" class="headerlink" title="统计"></a>统计</h4><p>BITCOUNT key [start end]</p>
+<pre class=" language-bash"><code class="language-bash">127.0.0.1:6379<span class="token operator">></span> BITCOUNT sign
+<span class="token punctuation">(</span>integer<span class="token punctuation">)</span> 1</code></pre>
+]]></content>
+      <categories>
+        <category>Redis</category>
+        <category>NOSQL</category>
+        <category>数据库</category>
+      </categories>
+      <tags>
+        <tag>Redis</tag>
+        <tag>数据库</tag>
+        <tag>NoSQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新人报道</title>
+    <url>/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="新人报道"><a href="#新人报道" class="headerlink" title="新人报道"></a>新人报道</h1><p>在校大学学生，IT新手。</p>
+]]></content>
   </entry>
   <entry>
     <title>报错The bean ‘item-service.FeignClientSpecification’ could not be registered. A bean with that name</title>
