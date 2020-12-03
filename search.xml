@@ -103,6 +103,37 @@ Error<span class="token operator">:</span><span class="token punctuation">(</spa
       </tags>
   </entry>
   <entry>
+    <title>JVM之类加载器</title>
+    <url>/2020/07/29/JVM%E4%B9%8B%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8/</url>
+    <content><![CDATA[<h2 id="类加载器子系统作用"><a href="#类加载器子系统作用" class="headerlink" title="类加载器子系统作用"></a>类加载器子系统作用</h2><ul>
+<li>ClassLoader只负责class文件的加载，至于能否运行，则由ExecutionEngine（执行引擎）决定。</li>
+</ul>
+<h2 id="类加载过程"><a href="#类加载过程" class="headerlink" title="类加载过程"></a>类加载过程</h2><p><img src="C:%5CUsers%5C49529%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1596012056714.png" alt="1596012056714" loading="lazy"></p>
+<h2 id="加载Loading"><a href="#加载Loading" class="headerlink" title="加载Loading"></a>加载Loading</h2><h2 id="链接Verification"><a href="#链接Verification" class="headerlink" title="链接Verification"></a>链接Verification</h2><h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><ul>
+<li>文件格式验证</li>
+<li>元数据验证</li>
+<li>字节码验证</li>
+<li>符号应用验证</li>
+</ul>
+<h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><ul>
+<li>为变量分配内存并且设置该变量的默认初始化值。</li>
+<li>这里不包括final修饰的static，应为final在编译时就会分配了，准备阶段会显式赋值。</li>
+<li>这里不会为实例变量分配初始值，类变量会分配在方法去中，而实例变量会随着对象一起分配到java堆中。</li>
+</ul>
+<h3 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h3><ul>
+<li>将常量池中的符号引用转化为直接引用的过程</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Java</category>
+        <category>JVM</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>JVM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>NB5060 TJ1TK1 模具 黑苹果保姆级教程整理</title>
     <url>/2020/05/22/NB5060%20TJ1TK1%20%E6%A8%A1%E5%85%B7%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</url>
     <content><![CDATA[<h1 id="NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理"><a href="#NB50-60-TJ1-TK1-模具-黑苹果保姆级教程整理" class="headerlink" title="NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理"></a><strong>NB50/60 TJ1/TK1 模具 黑苹果保姆级教程整理</strong></h1><hr>
@@ -150,22 +181,55 @@ Error<span class="token operator">:</span><span class="token punctuation">(</spa
       </tags>
   </entry>
   <entry>
-    <title>vmware workstation pro 永久激活密钥</title>
-    <url>/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/</url>
-    <content><![CDATA[<h2 id="下载vmware-workstation-建议直接到官网进行下载，这样最安全。"><a href="#下载vmware-workstation-建议直接到官网进行下载，这样最安全。" class="headerlink" title="下载vmware workstation 建议直接到官网进行下载，这样最安全。"></a>下载vmware workstation 建议直接到官网进行下载，这样最安全。</h2><p>官网地址：</p>
-<ul>
-<li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">中文官网下载地址</a></li>
-<li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">英文官网下载地址</a><h2 id="亲测前三有效"><a href="#亲测前三有效" class="headerlink" title="亲测前三有效"></a>亲测前三有效</h2><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/%E6%8D%95%E8%8E%B7.PNG" alt="" loading="lazy"><h2 id="激活码"><a href="#激活码" class="headerlink" title="激活码:"></a>激活码:</h2>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>UA752-0KF9J-0811Y-MQNEX-ZUAGF<br>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>AC11H-4HZ05-08EDQ-APQGX-YCUC8<br>ZG780-8EZ9M-M89LY-M5PEG-W2AZ8<br>YG5H2-ANZ0H-M8ERY-TXZZZ-YKRV8<br>UG5J2-0ME12-M89WY-NPWXX-WQH88<br>UA5DR-2ZD4H-089FY-6YQ5T-YPRX6<br>GA590-86Y05-4806Y-X4PEE-ZV8E0<br>ZF582-0NW5N-H8D2P-0XZEE-Z22VA<br>YA18K-0WY8P-H85DY-L4NZG-X7RAD<br>UY758-0RXEQ-M81WP-8ZM7Z-Y3HDA<br>VF750-4MX5Q-488DQ-9WZE9-ZY2D6<br>UU54R-FVD91-488PP-7NNGC-ZFAX6<br>YC74H-FGF92-081VZ-R5QNG-P6RY4<br>YC34H-6WWDK-085MQ-JYPNX-NZRA2<br>1F04Z-6D111-7Z029-AV0Q4-3AEH8  </li>
+    <title>ElasticSearch简单入门</title>
+    <url>/2020/07/29/es/</url>
+    <content><![CDATA[<h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><p>ElasticSearch 7.6.1</p>
+<p>IK分词器 7.6.1</p>
+<p>Kibana 7.6.1</p>
+<p>ElasticSearch head</p>
+<h2 id="使用工具"><a href="#使用工具" class="headerlink" title="使用工具"></a>使用工具</h2><ul>
+<li><p>ElasticSearch 本体    <a href="https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1</a> </p>
+</li>
+<li><p>IK分词器    <a href="https://github.com/medcl/elasticsearch-analysis-ik/releases" target="_blank" rel="noopener">https://github.com/medcl/elasticsearch-analysis-ik/releases</a> </p>
+</li>
+<li><p>Kibana    <a href="https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1</a> </p>
+</li>
+<li><p>ElasticSearch head    <a href="https://github.com/mobz/elasticsearch-head" target="_blank" rel="noopener">https://github.com/mobz/elasticsearch-head</a> </p>
+</li>
 </ul>
+<h2 id="简单概述"><a href="#简单概述" class="headerlink" title="简单概述"></a>简单概述</h2><table>
+<thead>
+<tr>
+<th>MySql</th>
+<th>Elasticsearch</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>数据库</td>
+<td>索引</td>
+</tr>
+<tr>
+<td>表</td>
+<td><del>types</del>（8版本会被弃用）</td>
+</tr>
+<tr>
+<td>行</td>
+<td>documents（文档）</td>
+</tr>
+<tr>
+<td>字段</td>
+<td>fields</td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
-        <category>分享</category>
-        <category>密钥</category>
+        <category>搜索</category>
+        <category>ElasticSearch</category>
       </categories>
       <tags>
-        <tag>vmware workstation</tag>
-        <tag>激活码</tag>
-        <tag>虚拟机</tag>
+        <tag>ElasticSearch</tag>
+        <tag>搜索</tag>
+        <tag>java</tag>
       </tags>
   </entry>
   <entry>
@@ -1035,57 +1099,10 @@ OK
       </tags>
   </entry>
   <entry>
-    <title>ElasticSearch简单入门</title>
-    <url>/2020/07/29/es/</url>
-    <content><![CDATA[<h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><p>ElasticSearch 7.6.1</p>
-<p>IK分词器 7.6.1</p>
-<p>Kibana 7.6.1</p>
-<p>ElasticSearch head</p>
-<h2 id="使用工具"><a href="#使用工具" class="headerlink" title="使用工具"></a>使用工具</h2><ul>
-<li><p>ElasticSearch 本体    <a href="https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/elasticsearch-7-6-1</a> </p>
-</li>
-<li><p>IK分词器    <a href="https://github.com/medcl/elasticsearch-analysis-ik/releases" target="_blank" rel="noopener">https://github.com/medcl/elasticsearch-analysis-ik/releases</a> </p>
-</li>
-<li><p>Kibana    <a href="https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1" target="_blank" rel="noopener">https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1</a> </p>
-</li>
-<li><p>ElasticSearch head    <a href="https://github.com/mobz/elasticsearch-head" target="_blank" rel="noopener">https://github.com/mobz/elasticsearch-head</a> </p>
-</li>
-</ul>
+    <title>新人报道</title>
+    <url>/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="新人报道"><a href="#新人报道" class="headerlink" title="新人报道"></a>新人报道</h1><p>在校大学学生，IT新手。</p>
 ]]></content>
-      <categories>
-        <category>搜索</category>
-        <category>ElasticSearch</category>
-      </categories>
-      <tags>
-        <tag>ElasticSearch</tag>
-        <tag>搜索</tag>
-        <tag>java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>swagger报错弹窗无法进入</title>
-    <url>/2020/05/27/swagger%E6%8A%A5%E9%94%99/</url>
-    <content><![CDATA[<h1 id="swagger2报错弹窗无法进入"><a href="#swagger2报错弹窗无法进入" class="headerlink" title="swagger2报错弹窗无法进入"></a>swagger2报错弹窗无法进入</h1><pre class=" language-浏览器"><code class="language-浏览器">Unable to infer base url. This is common when using dynamic servlet 
-registration or when the API is behind an API Gateway. The base url is 
-the root of where all the swagger resources are served. For e.g. if the 
-api is available at http://example.org/api/v2/api-docs then the base 
-url is http://example.org/api/. Please enter the location manually:</code></pre>
-<hr>
-<p><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/QQ%E5%9B%BE%E7%89%8720200527190937.png" alt="浏览器显示" loading="lazy"></p>
-<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>​         未创建Swagger2的bean，不能加载。</p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>​         在启动类或者Swagger2的配置类上添加@EnableSwagger2注释</p>
-<pre class=" language-java"><code class="language-java"><span class="token annotation punctuation">@EnableSwagger2</span></code></pre>
-]]></content>
-      <categories>
-        <category>解决错误</category>
-        <category>Java</category>
-        <category>Swagger2</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-        <tag>ERROR</tag>
-        <tag>Swagger</tag>
-      </tags>
   </entry>
   <entry>
     <title>Redis的3种特殊类型</title>
@@ -1209,10 +1226,17 @@ OK
       </tags>
   </entry>
   <entry>
-    <title>新人报道</title>
-    <url>/2020/05/19/%E5%8A%A0%E5%85%A5%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h1 id="新人报道"><a href="#新人报道" class="headerlink" title="新人报道"></a>新人报道</h1><p>在校大学学生，IT新手。</p>
+    <title>给自己的话</title>
+    <url>/2020/11/23/%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%AF%B4%E7%9A%84%E8%AF%9D/</url>
+    <content><![CDATA[<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p> 学会收敛自己的情绪，话可以少一点 </p>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p> 感觉自己明天都很忙碌，但是又不知道在忙什么。感觉所以事的进度都没有向前推进。，学习也没有学什么东西进去。再次陷入迷茫的我该怎么办？ </p>
 ]]></content>
+      <categories>
+        <category>自述</category>
+      </categories>
+      <tags>
+        <tag>自述</tag>
+      </tags>
   </entry>
   <entry>
     <title>报错The bean ‘item-service.FeignClientSpecification’ could not be registered. A bean with that name</title>
@@ -1236,9 +1260,53 @@ The bean &#39;item-service.FeignClientSpecification&#39; could not be registered
       </categories>
       <tags>
         <tag>Java</tag>
-        <tag>ERROR</tag>
         <tag>springboot</tag>
         <tag>bean</tag>
+        <tag>ERROR</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>vmware workstation pro 永久激活密钥</title>
+    <url>/2020/06/02/vmware%20workstation%20pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/</url>
+    <content><![CDATA[<h2 id="下载vmware-workstation-建议直接到官网进行下载，这样最安全。"><a href="#下载vmware-workstation-建议直接到官网进行下载，这样最安全。" class="headerlink" title="下载vmware workstation 建议直接到官网进行下载，这样最安全。"></a>下载vmware workstation 建议直接到官网进行下载，这样最安全。</h2><p>官网地址：</p>
+<ul>
+<li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">中文官网下载地址</a></li>
+<li><a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html" target="_blank" rel="noopener">英文官网下载地址</a><h2 id="亲测前三有效"><a href="#亲测前三有效" class="headerlink" title="亲测前三有效"></a>亲测前三有效</h2><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/%E6%8D%95%E8%8E%B7.PNG" alt="" loading="lazy"><h2 id="激活码"><a href="#激活码" class="headerlink" title="激活码:"></a>激活码:</h2>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>UA752-0KF9J-0811Y-MQNEX-ZUAGF<br>VG5HH-D6E04-0889Y-QXZET-QGUC8<br>CY55A-F6G80-H85HQ-WNN5X-W38W4<br>AC11H-4HZ05-08EDQ-APQGX-YCUC8<br>ZG780-8EZ9M-M89LY-M5PEG-W2AZ8<br>YG5H2-ANZ0H-M8ERY-TXZZZ-YKRV8<br>UG5J2-0ME12-M89WY-NPWXX-WQH88<br>UA5DR-2ZD4H-089FY-6YQ5T-YPRX6<br>GA590-86Y05-4806Y-X4PEE-ZV8E0<br>ZF582-0NW5N-H8D2P-0XZEE-Z22VA<br>YA18K-0WY8P-H85DY-L4NZG-X7RAD<br>UY758-0RXEQ-M81WP-8ZM7Z-Y3HDA<br>VF750-4MX5Q-488DQ-9WZE9-ZY2D6<br>UU54R-FVD91-488PP-7NNGC-ZFAX6<br>YC74H-FGF92-081VZ-R5QNG-P6RY4<br>YC34H-6WWDK-085MQ-JYPNX-NZRA2<br>1F04Z-6D111-7Z029-AV0Q4-3AEH8  </li>
+</ul>
+]]></content>
+      <categories>
+        <category>分享</category>
+        <category>密钥</category>
+      </categories>
+      <tags>
+        <tag>vmware workstation</tag>
+        <tag>激活码</tag>
+        <tag>虚拟机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>swagger报错弹窗无法进入</title>
+    <url>/2020/05/27/swagger%E6%8A%A5%E9%94%99/</url>
+    <content><![CDATA[<h1 id="swagger2报错弹窗无法进入"><a href="#swagger2报错弹窗无法进入" class="headerlink" title="swagger2报错弹窗无法进入"></a>swagger2报错弹窗无法进入</h1><pre class=" language-浏览器"><code class="language-浏览器">Unable to infer base url. This is common when using dynamic servlet 
+registration or when the API is behind an API Gateway. The base url is 
+the root of where all the swagger resources are served. For e.g. if the 
+api is available at http://example.org/api/v2/api-docs then the base 
+url is http://example.org/api/. Please enter the location manually:</code></pre>
+<hr>
+<p><img src="https://weixizi.oss-cn-hangzhou.aliyuncs.com/bolg/QQ%E5%9B%BE%E7%89%8720200527190937.png" alt="浏览器显示" loading="lazy"></p>
+<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>​         未创建Swagger2的bean，不能加载。</p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>​         在启动类或者Swagger2的配置类上添加@EnableSwagger2注释</p>
+<pre class=" language-java"><code class="language-java"><span class="token annotation punctuation">@EnableSwagger2</span></code></pre>
+]]></content>
+      <categories>
+        <category>解决错误</category>
+        <category>Java</category>
+        <category>Swagger2</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>ERROR</tag>
+        <tag>Swagger</tag>
       </tags>
   </entry>
 </search>
